@@ -19,3 +19,5 @@ Bienvenue sur la documentation officielle du projet **pyCross**. Retrouvez ici t
    :maxdepth: 1
    :hidden:
    :caption: Sommaire
+
+   contact
