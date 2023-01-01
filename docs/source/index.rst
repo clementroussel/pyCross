@@ -21,5 +21,6 @@ Bienvenue sur la documentation officielle du projet **pyCross**. Retrouvez ici t
    :caption: Sommaire
 
    introduction
+   licence
    contact
 
