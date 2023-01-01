@@ -7,7 +7,7 @@ maintainers = ["Clément Roussel <clement.roussel@onf.fr>"]
 license = "GPL-3.0-or-later"
 homepage = "https://www.onf.fr/"
 repository = "https://github.com/clementroussel/pyCross"
-documentation = "https://pyCross.readthedocs.io/fr/latest/"
+documentation = "https://pycross.readthedocs.io/fr/latest/"
 packages = [{include = "pyCross", from = "src/main/python"}]
 
 [tool.poetry.dependencies]
