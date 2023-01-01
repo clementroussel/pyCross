@@ -21,3 +21,4 @@ Bienvenue sur la documentation officielle du projet **pyCross**. Retrouvez ici t
    :caption: Sommaire
 
    contact
+   introduction
