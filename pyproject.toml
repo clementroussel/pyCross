@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cross-profile"
-version = "0.0.0"
+version = "0.0.1"
 description = ""
 authors = ["ONF-RTM"]
 maintainers = ["Clément Roussel <clement.roussel@onf.fr>"]
