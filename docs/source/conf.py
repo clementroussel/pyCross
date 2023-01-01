@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'cross-profile'
+project = 'pyCross'
 copyright = 'ONF-RTM'
 author = "ONF-RTM"
 
