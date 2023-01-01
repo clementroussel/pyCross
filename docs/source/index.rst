@@ -20,5 +20,6 @@ Bienvenue sur la documentation officielle du projet **pyCross**. Retrouvez ici t
    :hidden:
    :caption: Sommaire
 
-   contact
    introduction
+   contact
+
